@@ -18,3 +18,15 @@ Verify applicants ability to handle uknown, badly written and structured code.
 * Download, install, register in [ScreenHero app](http://screenhero.com/)
 * Add Josef as a contact - josef.nevoral@hotelquickly.com
 * Clone this repository
+
+##### Test with node.js
+
+Install the jasmine-node plugin from https://github.com/mhevery/jasmine-node
+
+	npm install jasmine-node -g
+
+And execute:
+
+	jasmine-node .
+
+Any test source matching the pattern *.spec.js will be executed.
