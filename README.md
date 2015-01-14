@@ -1,4 +1,4 @@
-PHP-Round2
+NodeJs-Round2
 ==========
 
 ## The goal
@@ -15,9 +15,8 @@ Verify applicants ability to handle uknown, badly written and structured code.
 
 
 ##### Prerequisite
-* Download, install, register in [ScreenHero app](http://screenhero.com/)
-* Add Josef as a contact - josef.nevoral@hotelquickly.com
 * Clone this repository
+* Analyze the code, prepare yourself for the session (don't do any changes to the code, yet)
 
 ##### Test with node.js
 
